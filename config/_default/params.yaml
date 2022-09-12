@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: rose
+  theme_night: rose
   font: minimal
   font_size: L
 
@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    description: 'Fransiska K Dannemann Dugick'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
@@ -98,7 +98,7 @@ features:
 extensions:
   cms:
     branch: main
-    local_backend: false
+    local_backend: true
   academicons:
     enable: true
 
