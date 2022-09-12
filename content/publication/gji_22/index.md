@@ -1,24 +1,20 @@
 ---
-title: 'Evaluating the location capabilities of a regional infrasonic network in Utah, US, using both ray tracing-derived and empirical-derived celerity-range and backazimuth models'
+title: 'An example conference paper'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
--Fransiska K Dannemann Dugick
--Philip S Blom
--Brian W Stump
--Chris T Hayward
--Stephen J Arrowsmith
--Joshua C Carmichael
--Omar E Marcillo
+  - admin
+  - Robert Ford
 
 # Author notes (optional)
-author_notes:[]
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 
-
-date: '2022-03-23'
-doi: 'https://doi.org/10.1093/gji/ggac027'
+date: '2013-07-01T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -27,16 +23,18 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Geophysical Journal International*
-publication_short: In *GJI*
+publication: In *Wowchemy Conference*
+publication_short: In *ICW*
 
-abstract: More realistic models for infrasound signal propagation across a region can be used to improve the precision and accuracy of spatial and temporal source localization estimates. Motivated by incomplete infrasound event bulletins in the Western US, the location capabilities of a regional infrasonic network of stations located between 84–458 km from the Utah Test and Training Range, Utah, USA, is assessed using a series of near-surface explosive events with complementary ground truth (GT) information. Signal arrival times and backazimuth estimates are determined with an automatic F-statistic based signal detector and manually refined by an analyst. This study represents the first application of three distinct celerity-range and backazimuth models to an extensive suite of realistic signal detections for event location purposes. A singular celerity and backazimuth deviation model was previously constructed using ray tracing analysis based on an extensive archive of historical atmospheric specifications and is applied within this study to test location capabilities. Similarly, a set of multivariate, season and location specific models for celerity and backazimuth are compared to an empirical model that depends on the observations across the infrasound network and the GT events, which accounts for atmospheric propagation variations from source to receiver. Discrepancies between observed and predicted signal celerities result in locations with poor accuracy. Application of the empirical model improves both spatial localization precision and accuracy; all but one location estimates retain the true GT location within the 90 per cent confidence bounds. Average mislocation of the events is 15.49 km and average 90 per cent error ellipse areas are 4141 km2. The empirical model additionally reduces origin time residuals; origin time residuals from the other location models are in excess of 160 s while residuals produced with the empirical model are within 30 s of the true origin time. We demonstrate that event location accuracy is driven by a combination of signal propagation model and the azimuthal gap of detecting stations. A direct relationship between mislocation, error ellipse area and increased station azimuthal gaps indicate that for sparse networks, detection backazimuths may drive location biases over traveltime estimates.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Probability distributions, Earthquake monitoring and test-ban treaty verification]
+tags: []
 
 # Display this page in the Featured widget?
 featured: true
@@ -67,14 +65,23 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
-
+projects:
+  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+slides: example
 ---
 
+{{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the _Slides_ button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
