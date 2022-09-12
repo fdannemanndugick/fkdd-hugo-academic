@@ -17,8 +17,8 @@ authors:
 author_notes: ''
 
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2022-03-23'
+doi: 'https://doi.org/10.1093/gji/ggac027'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
