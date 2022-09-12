@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Evaluating the location capabilities of a regional infrasonic network in Utah, US, using both ray tracing-derived and empirical-derived celerity-range and backazimuth models'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
