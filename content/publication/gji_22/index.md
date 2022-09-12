@@ -7,7 +7,11 @@ title: 'An example conference paper'
 authors:
   - Fransiska Dannemann Dugick
   - Philip Blom
-  - Philip Blom
+  - Brian Stump
+  - Chris Hayward
+  - Stephen Arrowsmith
+  - Joshua Carmichael
+  - Omar Marcillo
 
 # Author notes (optional)
 author_notes: ''
