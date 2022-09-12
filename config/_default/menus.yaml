@@ -10,14 +10,17 @@ main:
   - name: CV
     url: '#cv'
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
   - name: Talks
     url: '#talks'
     weight: 40
   - name: Publications
     url: '#featured'
+    weight: 50
+  - name: Students
+    url: '#students'
+    weight: 50
+  - name: ROSES
+    url: '#roses'
     weight: 50
   - name: Contact
     url: '#contact'
