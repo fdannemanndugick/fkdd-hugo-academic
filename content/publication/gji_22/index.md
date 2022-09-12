@@ -7,11 +7,11 @@ title: 'An example conference paper'
 authors:
   - Fransiska Dannemann Dugick
   - Philip Blom
+  - Philip Blom
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+author_notes: ''
+
 
 date: '2013-07-01T00:00:00Z'
 doi: ''
