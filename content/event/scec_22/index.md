@@ -8,13 +8,13 @@ location: Palm Springs, CA
 address:
 
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: We were invited to speak as part of the 'Earthquake Science, Technology, and Education in the 21st Century' Plenary Session at the 2022 SCEC Annual Meeting.  
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-09-13'
+date_end: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).
