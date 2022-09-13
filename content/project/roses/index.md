@@ -30,3 +30,5 @@ In 2020, the [American Geophysical Union Seismology Section](https://connect.agu
 ROSES returned for 2021, targeting MS students, PhD students, early career researchers and lecturers, and incoming graduate students that had already taken the [IRIS Seismology Skill Building Workshop](https://www.iris.edu/hq/workshops/2021/01/ssb_2) or had the applicable computing experience. 
 
 The over-arching goals of the ROSES program are to cultivate a successful, cohort-based learning environment while expanding accessibility globally – offering synchronous and asynchronous options for lectures, facilitating regional working groups, and providing a global forum for collaborative discussion.
+
+----
