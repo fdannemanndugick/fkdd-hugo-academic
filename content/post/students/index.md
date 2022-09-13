@@ -23,13 +23,12 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Post-fieldwork burritos, a NM tradition'
   focal_point: ''
   placement: 2
   preview_only: false
 
-authors:
-  - admin
+authors:[]
 
 tags:
   - students
@@ -38,6 +37,6 @@ categories:
 
 ---
 
-## Overview
+##
 
 Our research team at [Sandia National Laboratories](https://www.sandia.gov/) is always looking for students and postdocs interested in geophysics, seismoacoustics and explosion monitoring.  We offer both year-round and summer internship options, with opportunities for remote work.  Interns are hired through the Monitoring Systems and Technology Internship Center.  Look for open postings [here](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/internships-co-ops/institute-programs/monitoring-systems-and-technology-intern-center/) or feel free to reach out to me directly via email.  
