@@ -9,10 +9,10 @@ summary:
 projects: []
 
 # Date published
-date: '2022-09-12T00:00:00Z'
+date: '2021-09-12T00:00:00Z'
 
 # Date updated
-lastmod: '2022-09-12T00:00:00Z'
+lastmod: '2021-09-12T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -40,4 +40,5 @@ categories:
 ##
 
 
-In 2021, we refined the ROSES program to reach a wider audience.  Modifications include broadening participation requirements to include undergraduates, postdocs and early career staff members, and moving towards an asynchronus 
+In 2021, we refined the ROSES program to reach a wider audience.  Modifications include broadening participation requirements to include undergraduates, postdocs and early career staff members, and moving towards an asynchronous program where students could attend lectures either 'live' via Zoom or watch pre-recorded lectures.  
+Materials from are available via [Youtube](https://connect.agu.org/seismology/roses/roses2021materials) and [GitHub](https://github.com/roseseismo/roses2021). 
