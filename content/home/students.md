@@ -1,38 +1,14 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
-
-# This file represents a page section.
+widget: blank
 headless: true
 
-# Order that this section appears on the page.
-weight: 60
-
+# ... Put Your Section Options Here (title etc.) ...
 title: Students and PostDocs
 subtitle:
-
-content:
-  # Filter on criteria
-  filters:
-    folders:
-      - post
-    tag: 'students'
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 5
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
-
+weight: 20  # section position on page
 design:
-  # Choose a view for the listings:
-  view: compact
+  # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
+
+Our research team at [Sandia National Laboratories](https://www.sandia.gov/) is always looking for students and postdocs interested in geophysics, seismoacoustics and explosion monitoring.  We offer both year-round and summer internship options, with opportunities for remote work.  Interns are hired through the Monitoring Systems and Technology Internship Center.  Look for open postings [here](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/internships-co-ops/institute-programs/monitoring-systems-and-technology-intern-center/) or feel free to reach out to me directly via email.  
