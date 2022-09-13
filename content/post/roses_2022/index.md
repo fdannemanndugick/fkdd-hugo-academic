@@ -1,5 +1,5 @@
 ---
-title: Working with Dr. Dannemann Dugick
+title: ROSES 2022
 subtitle: 
 
 # Summary for listings and search engines
@@ -31,12 +31,11 @@ image:
 authors:
 
 tags:
-  - students
+  - roses
 
 categories:
 
 ---
 
 ##
-
-Our research team at [Sandia National Laboratories](https://www.sandia.gov/) is always looking for students and postdocs interested in geophysics, seismoacoustics and explosion monitoring.  We offer both year-round and summer internship options, with opportunities for remote work.  Interns are hired through the Monitoring Systems and Technology Internship Center.  Look for open postings [here](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/internships-co-ops/institute-programs/monitoring-systems-and-technology-intern-center/) or feel free to reach out to me directly via email.  
+In 2022, we partnered with the Incorporated Research Institutions for Seismology to offer a ROSES-Lite program.  This program provided students with the opportunity to work through 2020 and 2021 ROSES content on their own across a two-week period.  At the end of each period, a Zoom-based TA session allowed students to troubleshoot and ask questions.  
