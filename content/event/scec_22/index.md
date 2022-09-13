@@ -1,19 +1,23 @@
 ---
 title: Towards Inclusive Teaching Through Online Learning: An Example from ROSES
 
-event: Southern California Earthquake Center Annual Meeting
-event_url: https://www.scec.org/meetings
+event: Wowchemy Conference
+event_url: https://example.org
 
-location: Palm Springs, CA
+location: Wowchemy HQ
 address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
-
-summary: ROSES was featured in the "Earthquake Science, Technology, and Education in the 21st Century" Plenary Session at the 2022 SCEC Meeting.  Our team was excited for the opportunity to demonstrate our commitment towards innovative and inclusive teaching in the geosciences.  
-abstract: 
+summary: An example talk using Wowchemy's Markdown slides feature.
+abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-09-13T13:00:00Z'
+date: '2030-06-01T13:00:00Z'
 date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -45,7 +49,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -53,7 +57,7 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - roses
+  - example
 ---
 
 {{% callout note %}}
