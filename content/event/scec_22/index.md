@@ -1,5 +1,5 @@
 ---
-title: Towards Inclusive Teaching Through Online Learning: An Example from ROSES
+title: Towards Inclusive Teaching Through Online Learning - An Example from ROSES
 
 event: Wowchemy Conference
 event_url: https://example.org
