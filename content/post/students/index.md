@@ -28,7 +28,7 @@ image:
   placement: 2
   preview_only: false
 
-authors:[]
+authors:
 
 tags:
   - students
