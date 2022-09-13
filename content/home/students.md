@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
+title: Working with Dr. Dannemann Dugick
 subtitle:
 
 content:
@@ -17,7 +17,7 @@ content:
   filters:
     folders:
       - post
-    tag: ''
+    tag: 'students'
     category: ''
     publication_type: ''
     author: ''
