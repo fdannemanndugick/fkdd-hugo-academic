@@ -40,7 +40,4 @@ categories:
 
 ## Overview
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
-
+Our research team at [Sandia National Laboratories](https://www.sandia.gov/) is always looking for students and postdocs interested in geophysics, seismoacoustics and explosion monitoring.  We offer both year-round and summer internship options, with opportunities for remote work.  Interns are hired through the Monitoring Systems and Technology Internship Center.  Look for open postings [here](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/internships-co-ops/institute-programs/monitoring-systems-and-technology-intern-center/) or feel free to reach out to me directly via email.  

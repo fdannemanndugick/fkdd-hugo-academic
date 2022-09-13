@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Working with Dr. Dannemann Dugick
+title: Students and PostDocs
 subtitle:
 
 content:
