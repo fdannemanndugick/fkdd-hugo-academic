@@ -15,7 +15,7 @@ main:
   - name: CV
     url: '#CV'
     weight: 30
-  - name: What's New
+  - name: News
     url: '#talks'
     weight: 40
   - name: Publications
