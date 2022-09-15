@@ -59,4 +59,4 @@ group_logo = ""
 
 +++
 
-Fransiska is a research staff member at Sandia National Laboratories. Her research interests include seismoacoustic signal detection and event location applications to global monitoring problems.
+Fransiska is a research staff member at [Sandia National Laboratories](www.sandia.gov). Her research interests include seismoacoustic signal detection and event location applications to global monitoring problems.
