@@ -42,9 +42,9 @@ social:
   link: https://orcid.org/0000-0001-8328-4835
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- #- icon: cv
- #  icon_pack: ai
- #  link: files/fkdd-cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/fkdd-cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -61,5 +61,3 @@ Fransiska is a Geophysicist in the Geophysical Detection Programs Department at 
 
 
 Fransiska is always looking for motivated students and postdocs to join her research group, see the Students page for current opportunities and information on applying.    
-
-#{{< icon name="download" pack="fas" >}} Download her {{< staticref "files/fkdd-cv.pdf" "newtab" >}}CV{{< /staticref >}}.
