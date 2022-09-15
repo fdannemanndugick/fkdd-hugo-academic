@@ -1,40 +1,21 @@
 ---
 title: ROSES 2020
-subtitle: 
-
-# Summary for listings and search engines
-summary: 
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: '2020-09-12T00:00:00Z'
-
-# Date updated
-lastmod: '2020-09-12T00:00:00Z'
-
-# Is this an unpublished draft?
+subtitle: null
+date: 2020-09-12T00:00:00.000Z
+summary: null
 draft: false
-
-# Show this page in the Featured widget?
 featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Post-fieldwork burritos, a NM tradition'
-  focal_point: ''
-  placement: 2
-  preview_only: false
-
-authors:
-
+authors: null
+lastmod: 2020-09-12T00:00:00Z
 tags:
   - roses
-
-categories:
-
+categories: null
+projects: []
+image:
+  caption: Post-fieldwork burritos, a NM tradition
+  focal_point: ""
+  placement: 2
+  preview_only: false
 ---
 
 ##
