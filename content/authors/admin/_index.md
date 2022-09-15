@@ -61,3 +61,5 @@ Fransiska is a Geophysicist in the Geophysical Detection Programs Department at 
 
 
 Fransiska is always looking for motivated students and postdocs to join her research group, see the Students page for current opportunities and information on applying.    
+
+{{< gallery album="fkdd-photos" >}}
