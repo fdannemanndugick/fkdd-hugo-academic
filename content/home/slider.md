@@ -42,5 +42,4 @@ content:
         brightness: 0.5
         media: roses.jpg
         fit: cover
-\
-        url: ../contact/
+---
