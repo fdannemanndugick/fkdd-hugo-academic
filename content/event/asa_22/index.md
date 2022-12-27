@@ -1,5 +1,5 @@
 ---
-title: Towards Inclusive Teaching Through Online Learning - An Example from ROSES
+title: The Las Vegas Infrasound Array: Long term deployments for the characterization of urban environments
 
 event: Southern California Earthquake Center Annual Meeting
 event_url: https://www.scec.org/meetings
