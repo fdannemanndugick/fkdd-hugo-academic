@@ -8,12 +8,12 @@ location: Nashville, TN
 address:
 
 
-summary: We were invited to speak as part of the 'Earthquake Science, Technology, and Education in the 21st Century' Plenary Session at the 2022 SCEC Annual Meeting.  Thank you to the session organizers for accommodating our virtual participation!
+summary: Fransiska gave an invited talk at the Fall ASA meeting highlighting recent work utilizing acoustic data recorded across Las Vegas, NV.  
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-09-13'
+date: '2022-12-07'
 date_end: ''
 all_day: false
 
