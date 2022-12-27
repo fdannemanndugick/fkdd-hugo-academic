@@ -1,5 +1,5 @@
 ---
-title: The Las Vegas Infrasound Array: Long term deployments for the characterization of urban environments
+title: The Las Vegas Infrasound Array - Long term deployments for the characterization of urban environments
 
 event: Southern California Earthquake Center Annual Meeting
 event_url: https://www.scec.org/meetings
