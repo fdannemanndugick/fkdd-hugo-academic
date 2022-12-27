@@ -1,10 +1,10 @@
 ---
 title: The Las Vegas Infrasound Array - Long term deployments for the characterization of urban environments
 
-event: Southern California Earthquake Center Annual Meeting
-event_url: https://www.scec.org/meetings
+event: 183rd Meeting of the Acoustical Society of America
+event_url: https://acousticalsociety.org/asa-meetings/
 
-location: Palm Springs, CA
+location: Nashville, TN
 address:
 
 
