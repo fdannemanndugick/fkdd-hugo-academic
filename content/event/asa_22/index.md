@@ -1,10 +1,10 @@
 ---
-title: Towards Inclusive Teaching Through Online Learning - An Example from ROSES
+title: The Las Vegas Infrasound Array: Long term deployments for the characterization of urban environments
 
-event: Southern California Earthquake Center Annual Meeting
-event_url: https://www.scec.org/meetings
+event: 183rd Meeting of the Acoustical Society of America
+event_url: https://acousticalsociety.org/wp-content/uploads/2022/11/PAS_152_4_pt2.pdf
 
-location: Palm Springs, CA
+location: Nashville, TN
 address:
 
 
