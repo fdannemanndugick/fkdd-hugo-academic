@@ -1,24 +1,24 @@
 ---
-title: The Las Vegas Infrasound Array: Long term deployments for the characterization of urban environments
+title: Towards Inclusive Teaching Through Online Learning - An Example from ROSES
 
-event: 183rd Meeting of the Acoustical Society of America
+event: Southern California Earthquake Center Annual Meeting
 event_url: https://www.scec.org/meetings
 
-location: Nashville, TN
+location: Palm Springs, CA
 address:
 
 
-summary: Fransiska gave an invited talk as part of session Physical Acoustics and Computational Acoustics: Infrasound at the 2022 Fall Meeting of the Acoustical Society of America
+summary: We were invited to speak as part of the 'Earthquake Science, Technology, and Education in the 21st Century' Plenary Session at the 2022 SCEC Annual Meeting.  Thank you to the session organizers for accommodating our virtual participation!
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-12-07'
+date: '2022-09-13'
 date_end: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-12-08T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
 authors: []
 tags: []
