@@ -1,10 +1,10 @@
 ---
-title: Towards Inclusive Teaching Through Online Learning - An Example from ROSES
+title: Bulletin of the Seismological Society of America
 
 event: Southern California Earthquake Center Annual Meeting
 event_url: https://www.scec.org/meetings
 
-location: Palm Springs, CA
+location: ''
 address:
 
 
@@ -13,12 +13,12 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-09-13'
-date_end: ''
+date: ''
+#date_end: ''
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-09-01T00:00:00Z'
 
 authors: []
 tags: []
