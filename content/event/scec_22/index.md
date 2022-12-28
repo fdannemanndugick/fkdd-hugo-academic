@@ -8,7 +8,7 @@ location: Palm Springs, CA
 address:
 
 
-summary: We were invited to speak as part of the 'Earthquake Science, Technology, and Education in the 21st Century' Plenary Session at the 2022 SCEC Annual Meeting.  Thank you to the session organizers for accommodating our virtual participation!
+summary: The ROSES team was invited to speak as part of the 'Earthquake Science, Technology, and Education in the 21st Century' Plenary Session at the 2022 SCEC Annual Meeting.  Thank you to the session organizers for accommodating our virtual participation!
 abstract: ''
 
 # Talk start and end times.
@@ -27,7 +27,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 links:
