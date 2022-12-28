@@ -57,9 +57,9 @@ email: ""
 ---
 
 
-Fransiska is a Geophysicist in the Geophysical Detection Programs Department at  [Sandia National Laboratories](https://www.sandia.gov/) .  She found her way to New Mexico after stints in New Jersey (high school), Colorado (undergrad; [Colorado College](https://www.coloradocollege.edu/academics/dept/geology/)) and Texas (graduate school; MS, Ph.D, [Southern Methodist University](https://www.smu.edu/Dedman/Academics/Departments/Earth-Sciences)).
+Fransiska is a Geophysicist in the Geophysical Detection Programs Department at  [Sandia National Laboratories](https://www.sandia.gov/) .  Her research focuses on seismoacoustic methods to detect, locate and characterize explosive events of interest.  She found her way to New Mexico after stints in New Jersey (high school), Colorado (undergrad; [Colorado College](https://www.coloradocollege.edu/academics/dept/geology/)) and Texas (graduate school; MS, Ph.D, [Southern Methodist University](https://www.smu.edu/Dedman/Academics/Departments/Earth-Sciences)).  Fransiska is currently the president of the Rio Grande Valley Geophysical Society (website coming soon!) and serves as a US representative for the [Comprehensive Test Ban Treaty Organization](https://www.ctbto.org/) [Young Professionals Network](https://ypn.ctbto.org/).
 
 
 Fransiska is always looking for motivated students and postdocs to join her research group, see the Students page for current opportunities and information on applying.    
 
-#{{< gallery album="fkdd-photos" >}}
+{{< gallery album="fkdd-photos" >}}
