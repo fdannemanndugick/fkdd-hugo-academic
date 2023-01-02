@@ -45,8 +45,8 @@ item:
     # THIS DOESN'T WORK (6/7/21); just modify images
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Welcome to Roswell, NM
-    cta_url: 'https://www.google.com/maps/place/Roswell+welcome+sign+and+spaceship/@33.3107361,-104.6090342,12z/data=!4m9!1m2!2m1!1salien+roadside+mural+roswell!3m5!1s0x86e269bd5da32a8f:0x3cacd84bdf64e3bd!8m2!3d33.3107361!4d-104.4771983!15sChxhbGllbiByb2Fkc2lkZSBtdXJhbCByb3N3ZWxsWh4iHGFsaWVuIHJvYWRzaWRlIG11cmFsIHJvc3dlbGySARJ0b3VyaXN0X2F0dHJhY3Rpb26aASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUTJPRFpIWkRoM1JSQULgAQA'
+    cta_label: 
+    cta_url:
     cta_icon_pack: 
     cta_icon: 
     credit: ''
