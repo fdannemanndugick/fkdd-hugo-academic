@@ -24,7 +24,7 @@ item:
     # Choose `center`, `left`, or `right` alignment.
     align: right
     # overlay_color: '#666'  # An HTML color value.
-    overlay_img: van.jpg  # path relative to `assets/media/` folder
+    overlay_img: fkdd-photos/van.jpg  # path relative to `assets/media/` folder
     overlay_filter: 1  # Darken the image. Value in range 0-1.
     # THIS DOESN'T WORK (6/7/21); just modify images
     #   Activate the button by specifying a URL and button label below.
@@ -40,7 +40,7 @@ item:
     # Choose `center`, `left`, or `right` alignment.
     align: left
     # overlay_color: '#666'  # An HTML color value.
-    overlay_img: aliens.jpg  # path relative to `assets/media/` folder
+    overlay_img: fkdd-photos/aliens.jpg  # path relative to `assets/media/` folder
     overlay_filter: 1  # Darken the image. Value in range 0-1.
     # THIS DOESN'T WORK (6/7/21); just modify images
     #   Activate the button by specifying a URL and button label below.
