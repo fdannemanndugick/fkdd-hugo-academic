@@ -8,7 +8,7 @@ title = "Curriculum Vitae"
 subtitle = ""
 
 # CV location
-cv_pdf = "./files/fkdd-cv.pdf"
+cv_pdf = "static/files/fkdd-cv.pdf"
 
 # Group Logo
 group_logo = ""
