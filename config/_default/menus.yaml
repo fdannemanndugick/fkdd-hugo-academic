@@ -7,7 +7,6 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-
   - name: Students
     url: '#students'
     weight: 20
