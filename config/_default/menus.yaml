@@ -15,7 +15,7 @@ main:
     weight: 30
 
   - name: CV
-    url: '#CV'
+    url: 'CV'
     weight: 40
   - name: News
     url: '#talks'
