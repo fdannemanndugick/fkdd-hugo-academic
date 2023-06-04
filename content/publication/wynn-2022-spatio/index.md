@@ -29,7 +29,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Bulletin of the Seismological Society of Americal*
+publication: In *Bulletin of the Seismological Society of America*
 publication_short: In *BSSA*
 
 abstract: Recent studies have demonstrated the utility of seismic stations for recording acoustic signals from events of interest. Here, we present an analysis of seismoacoustic arrivals originating from weekly controlled munition disposals at the McAlester Army Ammunition Plant (McAAP) in Oklahoma over a period of nine months during 2019. These arrivals were recorded on 121 temporary and permanent seismic stations across Oklahoma and surrounding states. Arrivals were identified by a human analyst team. Because of its consistency and duration, the McAAP dataset provides an opportunity to study the spatial and temporal variability of infrasound propagation because it relates to seasonally variable atmospheric conditions. Recorded arrivals identify an acoustic shadow zone ranging in distance from 50 to 200 km of the source, along with seasonal directional shifts in the stratospheric duct. Acoustic raytracing is used to produce comparisons of predicted and observed arrival dynamics, concluding that current atmospheric specifications do not capture the full complexity of the atmosphere.

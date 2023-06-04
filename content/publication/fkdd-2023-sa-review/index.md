@@ -30,7 +30,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Bulletin of the Seismological Society of Americal*
+publication: In *Bulletin of the Seismological Society of America*
 publication_short: In *BSSA*
 
 abstract: Several sources of interest often generate both low‐frequency acoustic and seismic signals due to energy propagation through the atmosphere and the solid Earth. Seismic and acoustic observations are associated with a wide range of sources, including earthquakes, volcanoes, bolides, chemical and nuclear explosions, ocean noise, and others. The fusion of seismic and acoustic observations contributes to a better understanding of the source, both in terms of constraining source location and physics, as well as the seismic to acoustic coupling of energy. In this review, we summarize progress in seismoacoustic data processing, including recent developments in open‐source data availability, low‐cost seismic and acoustic sensors, and large‐scale deployments of collocated sensors from 2010 to 2022. Similarly, we outline the recent advancements in modeling efforts for both source characteristics and propagation dynamics. Finally, we highlight the advantages of fusing multiphenomenological signals, focusing on current and future techniques to improve source detection, localization, and characterization efforts. This review aims to serve as a reference for seismologists, acousticians, and others within the growing field of seismoacoustics and multiphenomenology research.
